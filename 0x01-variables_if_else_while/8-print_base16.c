@@ -2,7 +2,7 @@
 /**
 *main - entry point
 *
-* Return: always return 0
+*Return: always return 0
 */
 int main(void)
 {
@@ -19,6 +19,6 @@ for (i = 0; i < 6; i++)
 putchar('e' + a);
 a++;
 }
-putchar("\n";
+putchar('\n';
 return (0);
 }

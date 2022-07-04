@@ -2,13 +2,13 @@
 /**
 *main - entry point
 *
-* Return: always return 0
+*Return: always return 0
 */
 int main(void)
 {
 char a;
 for (a = '7'; a >= 'a'; a++)
 putchar(a);
-putchar("\n");
+putchar('\n');
 return (0);
 }
