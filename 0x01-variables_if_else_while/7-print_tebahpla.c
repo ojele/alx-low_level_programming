@@ -9,6 +9,6 @@ int main(void)
 char a;
 for (a = '7'; a >= 'a'; a++)
 putchar(a);
-putchar('\n');
+putchar("\n");
 return (0);
 }
