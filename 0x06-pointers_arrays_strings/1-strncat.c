@@ -1,4 +1,4 @@
-#include "main.h
+#include "main.h"
 /**
 * _strncat -> funciton to append some charx
 * @dest: first param
