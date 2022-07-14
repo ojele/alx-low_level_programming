@@ -1,15 +1,15 @@
-#include "main.h"
+#includei "main.h"
 
 /**
  * string_toupper -> convrting any string to upper case
- * @X:  string param
+ * @X: string param
  * Return: string
  */
 char *string_toupper(char *X)
 {
 	int i = 0;
 
-	while (x[i])
+	while (X[i])
 	{
 		if (X[i] >= 97 && X[i] <= 122)
 		       X[i] = X[i] - 32;
