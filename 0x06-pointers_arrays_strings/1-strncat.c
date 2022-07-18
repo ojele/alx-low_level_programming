@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
-* _strncat -> funciton to append some charx
+* _strncat: funciton to append some charx
 * @dest: first param
 * @src: second param
 * @n: 3rd param

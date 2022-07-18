@@ -1,7 +1,7 @@
 #include "main.h"
 #include <string.h>
 /**
-* _strcmp -> for comparing purpose
+* _strcmp: for comparing purpose
 * @s1: param1
 * @s2: param2
 * Retrun: integer
